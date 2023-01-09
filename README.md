@@ -1,2 +1,2 @@
 # html-workouts
-html ile ilgili çalışmalarım
+Bu repoda html ile ilgili çalışmalar yer alacaktır.
