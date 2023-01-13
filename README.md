@@ -1,2 +1,2 @@
-# html-workouts
-Bu repoda html ile ilgili çalışmalar yer alacaktır.
+# html&css-workouts
+Bu repoda html ve css ile ilgili çalışmalar yer alacaktır.
