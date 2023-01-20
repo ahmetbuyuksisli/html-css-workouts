@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.margin-padding {
+  width: 90%;
+  display: flex;
+  /* margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 33%;
+  padding-right: 33%;*/
+} 
+
+#search-bar-family {
+  background-color:#EEEEEE;
+  align-items: center;
+  justify-content: center;
+}
+
+#container {
+  /* width: 200px;
+  height: 200px; 
+  */ 
+  text-align: center;
+  justify-content: center;
+}
+.align-justify {
+  display: flex; flex-direction: column; justify-content: center;
+}
